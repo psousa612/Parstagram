@@ -22,6 +22,7 @@ class LoginViewController: UIViewController {
         
         signInButton.layer.cornerRadius = 5;
         signUpButton.layer.cornerRadius = 5;
+        passwordField.isSecureTextEntry = true
 
     }
     
