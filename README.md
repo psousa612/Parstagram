@@ -25,20 +25,20 @@ Here's a walkthrough of implemented user stories:
 
 <br>
 User sees app icon and styled launch screen <br>
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/952fNWimyL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <br>
 Users can sign up to create a new account <br>
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/vjDY04XmrB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <br>
 Users can log in <br>
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/jKuy07mMJU.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <br>
 Users take a photo, add a caption, and post it to the server <br>
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/frnQb2QATG.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <br>
 Users can see the last 20 posts <br>
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/XoITHeqL7o.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
