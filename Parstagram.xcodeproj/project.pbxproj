@@ -17,6 +17,8 @@
 		3A26E6FC253F99DA006359FD /* ParstagramTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A26E6FB253F99DA006359FD /* ParstagramTests.swift */; };
 		3A26E707253F99DA006359FD /* ParstagramUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A26E706253F99DA006359FD /* ParstagramUITests.swift */; };
 		3A3906E9254213B900340760 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3906E8254213B900340760 /* PostCell.swift */; };
+		3A3906EE2548E70000340760 /* CommentCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3906ED2548E70000340760 /* CommentCellTableViewCell.swift */; };
+		3A3906F3254B4E6600340760 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3906F2254B4E6600340760 /* CommentCell.swift */; };
 		3AC8DB07253F9C8900835E05 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC8DB06253F9C8900835E05 /* LoginViewController.swift */; };
 		3AC8DB0C253F9C9000835E05 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC8DB0B253F9C9000835E05 /* FeedViewController.swift */; };
 		3AC8DB12253FA6E100835E05 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC8DB11253FA6E100835E05 /* CameraViewController.swift */; };
@@ -58,6 +60,8 @@
 		3A26E706253F99DA006359FD /* ParstagramUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParstagramUITests.swift; sourceTree = "<group>"; };
 		3A26E708253F99DA006359FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3A3906E8254213B900340760 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		3A3906ED2548E70000340760 /* CommentCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCellTableViewCell.swift; sourceTree = "<group>"; };
+		3A3906F2254B4E6600340760 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		3AC8DB06253F9C8900835E05 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		3AC8DB0B253F9C9000835E05 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		3AC8DB11253FA6E100835E05 /* CameraViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
@@ -102,6 +106,7 @@
 		3A26E6D8253F99D8006359FD = {
 			isa = PBXGroup;
 			children = (
+				3A3906ED2548E70000340760 /* CommentCellTableViewCell.swift */,
 				3A26E6E3253F99D8006359FD /* Parstagram */,
 				3A26E6FA253F99DA006359FD /* ParstagramTests */,
 				3A26E705253F99DA006359FD /* ParstagramUITests */,
@@ -135,6 +140,7 @@
 				3A26E6EF253F99DA006359FD /* LaunchScreen.storyboard */,
 				3A26E6F2253F99DA006359FD /* Info.plist */,
 				3A3906E8254213B900340760 /* PostCell.swift */,
+				3A3906F2254B4E6600340760 /* CommentCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -423,8 +429,10 @@
 				3A26E6E9253F99D9006359FD /* ViewController.swift in Sources */,
 				3AC8DB0C253F9C9000835E05 /* FeedViewController.swift in Sources */,
 				3A26E6E5253F99D9006359FD /* AppDelegate.swift in Sources */,
+				3A3906F3254B4E6600340760 /* CommentCell.swift in Sources */,
 				3A26E6E7253F99D9006359FD /* SceneDelegate.swift in Sources */,
 				3AC8DB12253FA6E100835E05 /* CameraViewController.swift in Sources */,
+				3A3906EE2548E70000340760 /* CommentCellTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
